@@ -116,7 +116,7 @@ O segundo arquivo herdou as permissões definidas pela ACL padrão e o grupo `so
 
 ### Configuração final de permissões e ACL
 
-![Permissões Linux SOC](../soc-permissions.png)
+![Permissões Linux SOC](evidencias/soc-permissions.png)
 
 A captura demonstra:
 
